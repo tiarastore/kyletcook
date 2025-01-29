@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Kyle Cook. 👋
 
-<!--
-**kyletcook/kyletcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Have worked with [Nashville Public Library](https://github.com/Nashville-Public-Library) on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Documentation Projects
+
+- [Bedework Calendar](https://github.com/Nashville-Public-Library/bedework-docs) MKDocs
+- [Nashville Public Library](https://github.com/Nashville-Public-Library/mkdocsuaurus) MkDocs
+- [Library Services for the Deaf and Hard of Hearing](https://github.com/Nashville-Public-Library/lsdhh-documentation/tree/main) MKDocs
+
+## Web Site Projects
+
+### [Nashville Public Library](https://library.nashville.org) Drupal
+
+- [NPL Podcasts](https://library.nashville.org/podcasts) XML, RSS
+- [Metro Archives](https://library.nashville.org/metro-archives)
+- [Public Library Board of Trustees](https://library.nashville.org/about/public-library-board-trustees)
+
+### [Events Calendar](https://events.library.nashville.org) Bedework Enterprise Calendar
+
+### [Limitless Libraries](https://limitlesslibraries.org) Drupal
+
+### [NECAT Network](https://necatnetwork.org/) WordPress
+
+### [EZproxy Configuration](https://ezproxy.library.nashville.org/) EZproxy
+
+### [Salon Authors Series](https://github.com/kyletcook/salon-authors-series) HTML, CSS
+
+### [Library Catalog](https://catalog.library.nashville.org) [Aspen Discovery](https://github.com/Aspen-Discovery/aspen-discovery)
+
+## Microsoft Excel Projects
+
+### [Concatenate Quarterly Programs](https://github.com/kyletcook/Concatenate-Quarterly_Programs) Excel
+
+Excel Workbook is used as an entry form for multiple events.
+
+### [Winter Unbound](https://github.com/kyletcook/winter-unbound) Excel
+
+Files created to produce the UnBound Back of Book listings for Winter 2017-18. Using both traditional transposition method, and new Pixie Dust workflow.
+
+## GitHub Stats
+
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyletcook&show_icons=true&theme=radical)
+
+## Contact Me
+
+- **Email:** [kyle.cook@nashville.gov](mailto:kyle.cook@nashville.gov)
+- **Drupal.org:** [k.cook](https://www.drupal.org/u/kcook-0)
+
+Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas!

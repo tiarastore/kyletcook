@@ -26,23 +26,23 @@ Have worked with [Nashville Public Library](https://github.com/Nashville-Public-
 
 ### [EZproxy Configuration](https://ezproxy.library.nashville.org/) EZproxy
 
-### [Salon Authors Series](https://github.com/kyletcook/salon-authors-series) HTML, CSS
+### [Salon Authors Series](https://github.com/tiarastore/salon-authors-series) HTML, CSS
 
 ### [Library Catalog](https://catalog.library.nashville.org) [Aspen Discovery](https://github.com/Aspen-Discovery/aspen-discovery)
 
 ## Microsoft Excel Projects
 
-### [Concatenate Quarterly Programs](https://github.com/kyletcook/Concatenate-Quarterly_Programs) Excel
+### [Concatenate Quarterly Programs](https://github.com/tiarastore/Concatenate-Quarterly_Programs) Excel
 
 Excel Workbook is used as an entry form for multiple events.
 
-### [Winter Unbound](https://github.com/kyletcook/winter-unbound) Excel
+### [Winter Unbound](https://github.com/tiarastore/winter-unbound) Excel
 
 Files created to produce the UnBound Back of Book listings for Winter 2017-18. Using both traditional transposition method, and new Pixie Dust workflow.
 
 ## GitHub Stats
 
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyletcook&show_icons=true&theme=radical)
+![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiarastore&show_icons=true&theme=radical)
 
 ## Contact Me
 

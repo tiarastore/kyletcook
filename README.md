@@ -46,7 +46,7 @@ Files created to produce the UnBound Back of Book listings for Winter 2017-18. U
 
 ## Contact Me
 
-- **Email:** [kyle.cook@nashville.gov](mailto:kyle.cook@nashville.gov)
+- **Email:** [tiarastore@duck.com](mailto:tiarastore@duck.com)
 - **Drupal.org:** [k.cook](https://www.drupal.org/u/kcook-0)
 
 Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas!
